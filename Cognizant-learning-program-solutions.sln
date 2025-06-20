@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1-DataStructures&Algorithms", "Week1-DataStructures&Algorithms", "{22022FB6-222C-035A-B77D-460507D5012E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_EcommerceSearch", "2_EcommerceSearch", "{4D16A240-6A23-F24C-EB6D-E6FEDD7A7559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "Week1-DataStructures&Algorithms\2_EcommerceSearch\code\code.csproj", "{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D16A240-6A23-F24C-EB6D-E6FEDD7A7559} = {22022FB6-222C-035A-B77D-460507D5012E}
+		{770F83A4-E6C5-702A-0DB0-9E1C1CFAE78A} = {4D16A240-6A23-F24C-EB6D-E6FEDD7A7559}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD54B872-3B26-4895-BAEE-99F73061E128}
+	EndGlobalSection
+EndGlobal

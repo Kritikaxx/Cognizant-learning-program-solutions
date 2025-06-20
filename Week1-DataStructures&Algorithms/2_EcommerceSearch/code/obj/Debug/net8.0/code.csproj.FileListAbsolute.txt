@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\bin\Debug\net8.0\code.exe
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\bin\Debug\net8.0\code.deps.json
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\bin\Debug\net8.0\code.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\bin\Debug\net8.0\code.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\bin\Debug\net8.0\code.pdb
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\refint\code.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.pdb
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\ref\code.dll
