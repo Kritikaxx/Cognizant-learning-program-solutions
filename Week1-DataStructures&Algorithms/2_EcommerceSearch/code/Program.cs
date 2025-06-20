@@ -16,7 +16,6 @@ public class Product
 
 public class SearchAlgorithms
 {
-    // Linear Search: O(n) time complexity
     public static Product LinearSearch(Product[] products, int targetId)
     {
         foreach (var product in products)
@@ -27,7 +26,6 @@ public class SearchAlgorithms
         return null;
     }
 
-    // Binary Search: O(log n) time complexity (requires sorted array)
     public static Product BinarySearch(Product[] sortedProducts, int targetId)
     {
         int left = 0;
@@ -52,7 +50,6 @@ public class Program
 {
     public static void Main()
     {
-        // Sample product data (unsorted)
         Product[] products = {
             new Product(102, "Keyboard", "Electronics"),
             new Product(105, "Mouse", "Electronics"),
@@ -61,11 +58,9 @@ public class Program
             new Product(103, "Notebook", "Stationery")
         };
 
-        // Sorted array for binary search (by ProductId)
         Product[] sortedProducts = (Product[])products.Clone();
         Array.Sort(sortedProducts, (a,b) => a.ProductId.CompareTo(b.ProductId));
 
-        // Search demonstrations
         int searchId = 103;
         
         Console.WriteLine("Linear Search Result:");
