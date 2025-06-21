@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\bin\Debug\net9.0\code.exe
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\bin\Debug\net9.0\code.deps.json
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\bin\Debug\net9.0\code.runtimeconfig.json
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\bin\Debug\net9.0\code.dll
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\bin\Debug\net9.0\code.pdb
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.dll
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\refint\code.dll
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.pdb
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\code.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\c#\learning-program-solutions\Week1_DesignPatternsAndPrinciples\6_ProxyPattern\code\obj\Debug\net9.0\ref\code.dll

@@ -12,3 +12,4 @@ C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-sol
 C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.pdb
 C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.genruntimeconfig.cache
 C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\ref\code.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week1-DataStructures&Algorithms\2_EcommerceSearch\code\obj\Debug\net8.0\code.sourcelink.json
