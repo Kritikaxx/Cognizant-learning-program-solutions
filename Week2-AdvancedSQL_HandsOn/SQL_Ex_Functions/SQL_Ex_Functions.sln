@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_ReturnDataFromAScalarFunction", "7_ReturnDataFromAScalarFunction", "{D739A608-F7F0-69CC-A83B-679A622BB88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "7_ReturnDataFromAScalarFunction\code\code.csproj", "{54DE6507-CD30-BC93-F033-B9EDC83573BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DE6507-CD30-BC93-F033-B9EDC83573BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DE6507-CD30-BC93-F033-B9EDC83573BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DE6507-CD30-BC93-F033-B9EDC83573BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DE6507-CD30-BC93-F033-B9EDC83573BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54DE6507-CD30-BC93-F033-B9EDC83573BA} = {D739A608-F7F0-69CC-A83B-679A622BB88D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55EE56DB-C7AF-4062-9292-EB051B11F857}
+	EndGlobalSection
+EndGlobal
