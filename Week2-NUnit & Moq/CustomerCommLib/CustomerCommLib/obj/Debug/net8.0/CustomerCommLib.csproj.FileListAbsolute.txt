@@ -1,0 +1,12 @@
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\KIIT\OneDrive\Desktop\projects\cognizant\Cognizant-learning-program-solutions\Week2-NUnit & Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
