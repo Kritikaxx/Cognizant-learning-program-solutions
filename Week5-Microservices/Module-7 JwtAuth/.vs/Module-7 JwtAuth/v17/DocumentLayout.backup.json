@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|c:\\users\\kiit\\documents\\digital cognizant solution\\week 5\\module-7 jwtauth\\module-7 jwtauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FABC71F-2DF4-4DC3-8B0F-8AB0E806133F}|Module-7 JwtAuth.csproj|solutionrelative:module-7 jwtauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:11:03.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:59:57.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:53:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:52:50.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Module-7 JwtAuth",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Module-7 JwtAuth.csproj",
+              "RelativeDocumentMoniker": "Module-7 JwtAuth.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\Module-7 JwtAuth.csproj",
+              "RelativeToolTip": "Module-7 JwtAuth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T04:52:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital Cognizant solution\\Week 5\\Module-7 JwtAuth\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T04:51:14.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

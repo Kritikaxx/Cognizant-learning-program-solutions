@@ -1,0 +1,43 @@
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\appsettings.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.staticwebassets.endpoints.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.exe
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.deps.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.runtimeconfig.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Module-7 JwtAuth.pdb
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.csproj.AssemblyReference.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.sourcelink.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\scopedcss\bundle\Module-7 JwtAuth.styles.css
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7.08FF1078.Up2Date
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\refint\Module-7 JwtAuth.dll
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.pdb
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\Module-7 JwtAuth.genruntimeconfig.cache
+C:\Users\KIIT\Documents\Digital Cognizant solution\Week 5\Module-7 JwtAuth\obj\Debug\net8.0\ref\Module-7 JwtAuth.dll
